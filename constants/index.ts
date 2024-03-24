@@ -1,10 +1,10 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'How Hilink Work?' },
-  { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'pricing ', label: 'Pricing ' },
-  { href: '/', key: 'contact_us', label: 'Contact Us' },
+  { href: '/', key: 'how_hilink_work', label: 'Como funciona o Hilink?' },
+  { href: '/', key: 'services', label: 'Serviços' },
+  { href: '/', key: 'pricing ', label: 'Preços ' },
+  { href: '/', key: 'contact_us', label: 'Contate-nos' },
 ];
 
 // CAMP SECTION
@@ -18,32 +18,32 @@ export const PEOPLE_URL = [
 // FEATURES SECTION
 export const FEATURES = [
   {
-    title: 'Real maps can be offline',
+    title: 'Mapas reais podem estar offline',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+      'Fornecemos uma solução para que possa utilizar a nossa aplicação quando estiver a escalar, sim, mapas offline que pode utilizar em qualquer altura em que não haja sinal no local',
   },
   {
-    title: 'Set an adventure schedule',
+    title: 'Definir um calendário de aventura',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+      "Marque uma aventura com os seus amigos. Nas férias, há muitas ofertas interessantes da Hilink. Assim, não há mais discussão",
   },
   {
-    title: 'Technology using augment reality',
+    title: 'Tecnologia que utiliza realidade aumentada',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+      'A tecnologia utiliza a realidade aumentada como um guia para o seu trilho de caminhada na floresta até ao topo da montanha. Já suportado pela mais recente tecnologia sem uma ligação à Internet',
   },
   {
-    title: 'Many new locations every month',
+    title: 'Muitos locais novos todos os meses',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+      'Muitos locais novos todos os meses, porque temos uma comunidade mundial de alpinistas que partilham as suas melhores experiências de escalada',
   },
 ];
 
